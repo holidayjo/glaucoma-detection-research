@@ -5,6 +5,21 @@
 
 A collection of scripts for glaucoma detection research. See [here](https://ieeexplore.ieee.org/document/10436242)
 
+<!-- File Tree -->
+## File Tree
+
+```
+└── glaucoma-detection-research/
+ ├── src/
+ │ ├── models/
+ │ ├── featureExtraction/
+ │ │ └── 2d/
+ │ │ ├── 3d/
+ │ └── visualizations/
+ ├── requirements.txt
+ └── README.md
+```
+
 <!-- Development Environment -->
 ## Development Environment - Mac OS
 
