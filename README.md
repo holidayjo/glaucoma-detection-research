@@ -69,8 +69,9 @@ The next steps will show how to setup your computer for local development
    ```sh
    pip install -r requirements.txt
    ```
-   
-### Running scripts
+
+<!-- SCRIPTS -->
+## Running scripts
    
 - Open a jupyter notebook with
    
