@@ -61,8 +61,6 @@ The next steps will show how to setup your computer for local development
   pip install -r requirements.txt
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 ## Contributing - Mac OS terminal CLI
 
@@ -101,5 +99,3 @@ The next steps will show how to setup your computer for local development
 11. Open a pull request to merge your branch to the main branch on Github in the browser
     
 13. Merge your pull request to add your changes to this repository
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
