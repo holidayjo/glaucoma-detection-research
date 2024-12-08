@@ -20,6 +20,8 @@ The next steps will show how to setup your computer for local development
    python3 -m pip install –upgrade pip
    ```
 
+3. Install [Github CLI](https://cli.github.com/)
+
 ### Installation
 
 1. Open a terminal, and navigate to a directory on your machine where you want the project
