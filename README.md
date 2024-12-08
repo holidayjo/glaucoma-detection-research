@@ -13,8 +13,8 @@ A collection of scripts for glaucoma detection research. See [here](https://ieee
  ├── src/
  │ ├── models/
  │ ├── featureExtraction/
- │ │ └── 2d/
- │ │ ├── 3d/
+ │ │ ├── 2d/
+ │ │ └── 3d/
  │ └── visualizations/
  ├── requirements.txt
  └── README.md
