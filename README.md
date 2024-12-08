@@ -103,38 +103,30 @@ The next steps will show how to setup your computer for local development
 <!-- CONTRIBUTING -->
 ## Contributing - Mac OS terminal CLI
 
-1. (optional) Make a new issue or resolve an existing one
+1. Make changes
    
 2. Navigate to the root of the repository on your machine
    
    ```sh
    cd <path-to-repo>
    ```
-   
-3. Make a new branch
-   
-   ```sh
-   git checkout -b <your-new-branch>
-   ```
 
-4. Add the directories you want to change
+3. Add the directories you made changes in
    
    ```sh
    git add <directory1> <directory2>
    ```
 
-5. Commit your changes
+   Or do `git add .` for everything
+
+4. Commit your change locally
     
    ```sh
-   git commit -m <message-about-change>
+   git commit -m "<message-about-change>"
    ```
    
-6. Push the changes on your branch to this repo
+5. Upload your change to here
     
    ```sh
-   git push origin <your-new-branch>
+   git push origin main
    ```
-
-7. Open a pull request to merge your branch to the main branch on Github in the browser
-    
-8. Merge your pull request to add your changes to this repository
