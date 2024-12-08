@@ -22,6 +22,12 @@ The next steps will show how to setup your computer for local development
 
 3. Install [Github CLI](https://cli.github.com/)
 
+4. Install jupyter notebook
+
+   ```sh
+   python3 -m pip install jupyter
+   ```
+
 ### Installation
 
 1. Open a terminal, and navigate to a directory on your machine where you want the project
@@ -46,7 +52,7 @@ The next steps will show how to setup your computer for local development
    python3 -m venv .venv
    ```
    
-5. Activate the virtual environment
+5. Activate the virtual environment. It needs to be activated during development and while running scripts
    
    ```sh
    source .venv/bin/activate
@@ -59,9 +65,18 @@ The next steps will show how to setup your computer for local development
    ```
    
 6. Install the scripts' dependencies inside the virtual environment while its activated
+   
    ```sh
    pip install -r requirements.txt
    ```
+   
+### Running scripts
+   
+- Open a jupyter notebook with
+   
+   ```sh
+   jupyter notebook <path-to-notebook>
+   ```  
 
 <!-- CONTRIBUTING -->
 ## Contributing - Mac OS terminal CLI
