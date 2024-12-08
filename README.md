@@ -88,10 +88,16 @@ The next steps will show how to setup your computer for local development
 <!-- SCRIPTS -->
 ## Running scripts
    
-- Open a jupyter notebook with
+- Open a jupyter notebook
    
    ```sh
-   jupyter notebook <path-to-notebook>
+   jupyter notebook <path-to-notebook.ipynb>
+   ```
+
+- Run a python script
+   
+   ```sh
+   python3 <path-to-script.py>
    ```  
 
 <!-- CONTRIBUTING -->
