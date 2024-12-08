@@ -3,7 +3,7 @@
 <!-- About -->
 ## About
 
-A collection of scripts for glaucoma detection research. See [here](https://ieeexplore.ieee.org/document/10436242)
+A collection of jupyter notebooks and python scripts for glaucoma detection research. See [here](https://ieeexplore.ieee.org/document/10436242)
 
 <!-- File Tree -->
 ## File Tree
