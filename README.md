@@ -37,7 +37,7 @@ The next steps will show how to setup your computer for local development
 3. Clone the repo
    
    ```sh
-   git clone https://github.com/mcmahonl/glaucoma-detection-research.git
+   git clone https://github.com/mcmahonl/glaucoma-detection-research.git && cd glaucoma-detection-research
    ```
    
 4. Create a virtual python environment to install dependencies and execute scripts
